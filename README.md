@@ -1,5 +1,4 @@
 # Hangman Game
-
 Welcome to the Hangman game project! This project is a simple implementation of the classic Hangman game using React.
 
 ## Description
